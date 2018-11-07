@@ -1,0 +1,13 @@
+body{
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpAtCjiRDFl45xt-MSDUPuvbn5n6JrqTNKaFnfcjfixkNvyg4);
+background-size: cover;
+background-attachment: fixed;
+}
+a{
+  color: white;
+  background: black;
+  font-size: 80px;
+  border-radius: 20px;
+  margin-right: 50px;
+  font-family: URW Chancery L, cursive;
+}
